@@ -1,6 +1,6 @@
-variable "access_key" {****}
-variable "secret_key" {****}
-variable "region" {*****}
+variable "access_key" {*}
+variable "secret_key" {*}
+variable "region" {TOkyo}
 
 # AWS プロバイダの設定
 provider "aws" {

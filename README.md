@@ -110,3 +110,16 @@
   <li><code>release/*</code> はタグ付け・承認フロー・最終テストに活用</li>
   <li><code>hotfix/*</code> は障害対応テンプレートと連携</li>
 </ul>
+
+<h2>🧭 Git-Flow モデル図</h2>
+
+<p>
+  <img src="assets/git-flow-model.png" alt="Git-Flow モデル図" width="700" />
+</p>
+
+<p><strong>Git-Flow の特徴:</strong></p>
+<ul>
+  <li>大規模な開発向け</li>
+  <li>長期的なリリースサイクル</li>
+  <li>厳密なプロセス管理</li>
+</ul>
